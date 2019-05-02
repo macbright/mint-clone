@@ -22,10 +22,6 @@ body{
     font-weight: bold;
     display: inline;
     
-
-   
-
-
 }
 
 .test{
@@ -51,12 +47,30 @@ body{
     padding-top:5px;
 }
 
-
-
-
-
 .top-right{
     width: 30%;
     float: right;
     
+}
+.content{
+    background-color: white;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid;
+
+    border-color: rgb(199, 199, 199)
+   
+}
+
+.header-form{
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+.logo{
+    text-align: center;
+    padding-top: 120px;
+
 }
