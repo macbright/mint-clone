@@ -154,5 +154,19 @@ a:link {
     font-size: 10px;
     text-align: center;
     padding-right: 15px;
+    padding-bottom: 15px;
+
    
+  }
+  .footer{
+      text-align: center;
+      margin-top: 25px;
+
+  }
+
+  .footer a{
+      padding-left: 2px;
+      padding-right: 2px;
+      font-size: 14px;
+      color: rgb(29, 109, 184);
   }
