@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(236, 238, 241)
+}
+
+.sign-in{
+    float: right;
+    margin: 10px 40px 0 0;
+    
+    width: 400px;
+    display: inline-block;
+    
+
+}
+
+.login-button{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background: rgb(36, 119, 197);
+    border-radius: 6px;
+    border-color: black;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline;
+    
+
+   
+
+
+}
+
+.test{
+    height: 20%;
+
+
+  }
+
+.info{
+    font-size: 14px;
+}
+
+.top-left{
+    width: 70%;
+    float: left;
+    
+    
+    
+}
+.info {
+    float: right;
+    padding-right: 10px;
+    padding-top:5px;
+}
+
+
+
+
+
+.top-right{
+    width: 30%;
+    float: right;
+    
+}
