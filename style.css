@@ -132,3 +132,14 @@ a:link {
     border-radius: 20px;
   }
 
+  .lower-content{
+    padding-top: 40px;
+    color: rgb(117, 117, 117);
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.5;
+    padding-right: 15px;
+
+  }
+
