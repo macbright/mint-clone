@@ -1,5 +1,6 @@
 body{
-    background-color: rgb(236, 238, 241)
+    background-color: rgb(236, 238, 241);
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .sign-in{
@@ -65,8 +66,20 @@ body{
 
 .header-form{
     text-align: center;
-    padding-top: 10px;
+    padding-top: 15px;
 
+}
+
+.header-form h2{
+    color: rgb(76, 76, 76);
+    font-size: 24px;
+
+} 
+
+.header-form p{
+    padding-top: 7px;
+    color: rgb(76, 76, 76);
+    font-size: 13px;
 }
 
 .logo{
@@ -74,3 +87,37 @@ body{
     padding-top: 120px;
 
 }
+
+a:link {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+.form-input {
+    text-align: left;
+    padding-left: 30px;
+    padding-top:  25px;
+}
+
+.form-input input{
+    background: #fff;
+    border: 1px solid #c6c7cc;
+     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 90%;
+    height: 28px;
+    border-radius: 20px;
+}
+
+.form-input label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+
