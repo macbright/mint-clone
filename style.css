@@ -1,0 +1,181 @@
+body{
+    background-color: rgb(236, 238, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sign-in{
+    float: right;
+    margin: 10px 40px 0 0;
+    
+    width: 400px;
+    display: inline-block;
+    
+
+}
+
+.login-button{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background: rgb(36, 119, 197);
+    border-radius: 6px;
+    border-color: black;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline;
+    
+}
+
+.test{
+    height: 20%;
+
+
+  }
+
+.info{
+    font-size: 14px;
+}
+
+.top-left{
+    width: 70%;
+    float: left;
+    
+    
+    
+}
+.info {
+    float: right;
+    padding-right: 10px;
+    padding-top:5px;
+}
+
+.top-right{
+    width: 30%;
+    float: right;
+    
+}
+.content{
+    background-color: white;
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    border: 1px solid;
+
+    border-color: rgb(199, 199, 199)
+   
+}
+
+.header-form{
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.header-form h2{
+    color: rgb(76, 76, 76);
+    font-size: 24px;
+
+} 
+
+.header-form p{
+    padding-top: 7px;
+    color: rgb(76, 76, 76);
+    font-size: 13px;
+}
+
+.logo{
+    text-align: center;
+    padding-top: 120px;
+
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+.form-input {
+    text-align: left;
+    padding-left: 30px;
+    padding-top:  25px;
+}
+
+.form-input input{
+    background: #fff;
+    border: 1px solid #c6c7cc;
+     box-shadow: inset 0 1px 1px rgba(0, 0, 0, .1);
+    color: #636466;
+    padding: 6px;
+    margin-top: 6px;
+    width: 90%;
+    height: 28px;
+    border-radius: 20px;
+}
+
+.form-input label {
+    color: #395870;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  .submit-button{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    background: rgb(36, 119, 197);
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    display: inline;
+    width: 90%;
+    border-radius: 20px;
+  }
+
+  .lower-content{
+    padding-top: 40px;
+    color: rgb(117, 117, 117);
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.5;
+    padding-right: 15px;
+
+  }
+
+  .form-footer{
+      background-color: rgb(236, 238, 241);
+      padding-top: 20px;
+      margin-top: 40px;
+  }
+  .form-footer p {
+    text-align: left;
+    padding-left: 30px;
+    font-size: 10px;
+    text-align: center;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+   
+  }
+  .footer{
+      text-align: center;
+      margin-top: 25px;
+
+  }
+
+  .footer a{
+      padding-left: 2px;
+      padding-right: 2px;
+      font-size: 14px;
+      color: rgb(29, 109, 184);
+  }
+
+.footer p {
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 1.3;
+    color: #636466
+
+}
